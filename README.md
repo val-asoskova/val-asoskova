@@ -24,7 +24,7 @@
 * 📧 Со мной можно связаться по почте val.asoskova@yandex.ru 
 * 📜 Моё резюме можно посмотреть [вот тут](https://disk.yandex.ru/i/lYpzrpOtnBDuKg)
 
-Языки и ПО:
+Стек:
 <br>
 <div id='skills'>
     <div id='programming-languages'>
