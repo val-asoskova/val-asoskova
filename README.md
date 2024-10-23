@@ -8,6 +8,10 @@
   </a>
 </div>
 <br>
+<div id='gif' align='center'>
+  <img alt="Gif" src="https://github.com/val-asoskova/val-asoskova/blob/main/ponke-ponkesol.gif">
+</div>
+<br>
 
 Работаю веб-аналитиком уже 4 года, ищу способ сменить свою профессию на аналитика данных.
 
